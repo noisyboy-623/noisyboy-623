@@ -15,7 +15,7 @@
 ---
 
 📫 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/tejas-shekhar-39a721250)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tejas-shekhar-39a721250)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web)](...)
 
 ---
